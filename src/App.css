@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #021830;
+  /* Change this color to your preferred color */
+  margin: 20px 0;
+  text-align: center;
+}
